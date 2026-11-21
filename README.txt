@@ -50,8 +50,8 @@ HOW TO USE
      * Movie B: The source file containing the audio, subtitles, or RPU you
        want to sync.
 
-2. Run cssc.bat:
-   Double-click cssc.bat to launch CapSwey's Sync Calculator.
+2. Run CSSC.bat:
+   Double-click CSSC.bat to launch CapSwey's Sync Calculator.
 
 3. Select Frame Rate:
    Press Enter for 23.976 fps, or type 2-6 and press Enter.
