@@ -20,7 +20,7 @@ When muxing tracks or RPU metadata from Movie B onto a target video from Movie A
 
 ### Quick Start
 1. Find the exact frame number of a matching hard cut in both **Movie A** (Target Video) and **Movie B** (Source Audio/Subs/RPU) using a frame-accurate player (Avidemux, VirtualDub2, MPC, VapourSynth/AviSynth, etc.).
-2. Double-click `cssc.bat`.
+2. Double-click `CSSC.bat`.
 3. Select your frame rate (or press `Enter` for `23.976 fps`).
 4. Enter the frame number for Movie A, then Movie B.
 5. Paste the auto-copied delay (`Ctrl+V`) directly into MKVToolNix or use the frame offset in DDVT.
